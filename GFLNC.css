@@ -1088,11 +1088,11 @@ html:lang(gg) .linkflair-FlairTeambuilding {display: none;}
 #sr-header-area {background-color: rgba(0,0,0,0.35);}
 .sr-bar a {color: white;}
 .entry .buttons li a {color: #838f9c;}
-.md a {color: #f7ae00;}
+.md a {color: #006fa1;}
 .commentarea .menuarea .toggle a {color: #838f9c;}
 .link .flat-list.buttons li a, .link .tagline {color: #838f9c;}
 .dropdown.lightdrop .selected {color: #838f9c;}
-.tagline a, .search-result-meta a {color: #f7ae00;}
+.tagline a, .search-result-meta a {color: #006fa1;}
 
 #search {
 position: absolute; 
