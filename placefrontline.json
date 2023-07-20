@@ -1,0 +1,22 @@
+{
+    "faction": "r/place bronies",
+    "contact": "https://discord.gg/bronyplace #diplomacy",
+    "templates": [
+        {
+            "name": "GFL",
+            "sources": [
+                "https://i.imgur.com/ZgefyGd.png"
+            ],
+            "x": 802,
+            "y": 734
+        },
+		{
+            "name": "Va11",
+            "sources": [
+                "https://i.imgur.com/24AKJqt.png"
+            ],
+            "x": 803,
+            "y": 706
+        }
+    ]
+}
