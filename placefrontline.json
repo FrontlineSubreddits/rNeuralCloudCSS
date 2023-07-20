@@ -5,17 +5,9 @@
         {
             "name": "GFL",
             "sources": [
-                "https://i.imgur.com/ZgefyGd.png"
+                "https://i.imgur.com/rznoYFq.png"
             ],
             "x": 802,
-            "y": 734
-        },
-		{
-            "name": "Va11",
-            "sources": [
-                "https://i.imgur.com/24AKJqt.png"
-            ],
-            "x": 803,
             "y": 706
         }
     ]
