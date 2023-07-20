@@ -5,10 +5,16 @@
         {
             "name": "GFL",
             "sources": [
-                "https://i.imgur.com/rznoYFq.png"
+                "https://i.imgur.com/ya9ynmA.png"
             ],
             "x": 802,
             "y": 706
+        }
+    ],
+    "whitelist": [
+        {
+            "name": "P3ACE",
+            "url": "https://charity.pxls.space/"
         }
     ]
 }
