@@ -1117,6 +1117,14 @@ div.sidecontentbox .linkflairlabel {
   background-position: 0 -800px;
 }
 
+.flair-3-21-Sangoma {
+  background-position: 0 -840px;
+}
+
+.flair-3-22-Belladonna {
+  background-position: 0 -880px;
+}
+
 .flair-Ere {
   background: url(%%EreP90%%);
   width: 40px;
@@ -2016,4 +2024,4 @@ input[name=uh][value^=y] ~ a:after {
 
 input[name=uh][value^=z] ~ a:after {
   background-image: url("%%SIDE1%%");
-}
+}/*# sourceMappingURL=GFLNC.css.map */
