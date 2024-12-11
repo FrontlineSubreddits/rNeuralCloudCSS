@@ -1125,8 +1125,46 @@ div.sidecontentbox .linkflairlabel {
   background-position: 0 -880px;
 }
 
+.flair-3-23-Lewis {
+  background-position: 0 -920px;
+}
+
+.flair-3-24-Salmon {
+  background-position: 0 -960px;
+}
+
+.flair-3-25-Angelus {
+  background-position: 0 -1000px;
+}
+
+.flair-3-26-Havoc {
+  background-position: 0 -1040px;
+}
+
+.flair-3-27-Olivia {
+  background-position: 0 -1080px;
+}
+
+.flair-3-28-ENIAC {
+  background-position: 0 -1120px;
+}
+
+.flair-3-29-Inola {
+  background-position: 0 -1160px;
+}
+
+.flair-3-30-SolAlt {
+  background-position: 0 -1200px;
+}
+
 .flair-Ere {
   background: url(%%EreP90%%);
+  width: 40px;
+  height: 40px;
+}
+
+.flair-KuroKami {
+  background: url(%%KuroKami%%);
   width: 40px;
   height: 40px;
 }
@@ -2024,4 +2062,4 @@ input[name=uh][value^=y] ~ a:after {
 
 input[name=uh][value^=z] ~ a:after {
   background-image: url("%%SIDE1%%");
-}/*# sourceMappingURL=GFLNC.css.map */
+}
